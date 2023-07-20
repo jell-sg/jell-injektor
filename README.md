@@ -1,1 +1,2 @@
 # jell-injektor
+# scan qr
